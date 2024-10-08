@@ -1,0 +1,6 @@
+{
+    "n_layers": 1,
+    "n_units_l0": 89,
+    "learning_rate": 0.005223157349328733,
+    "batch_size": 17
+}
