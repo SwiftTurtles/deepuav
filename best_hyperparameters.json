@@ -1,0 +1,8 @@
+{
+    "nhead": 4,
+    "d_model": 136,
+    "num_encoder_layers": 1,
+    "dim_feedforward": 274,
+    "learning_rate": 0.003953864235868401,
+    "batch_size": 68
+}
