@@ -17,13 +17,13 @@ International Journal of Robotics Research, April 2017
 코랩 클라우드 환경에서 모델 설계 및 하이퍼파라미터 탐색 후 GPU 서버에서 학습 및 예측을 수행하였습니다.
 
 #### GPU 서버
-![alt text](image.png)
+![alt text](images/image.png)
 
 #### 코랩 클라우드 환경
-![alt text](image-1.png)
+![alt text](images/image-1.png)
 
 #### 라이브러리 (`requirements.txt`)
-![alt text](image-2.png)
+![alt text](images/image-2.png)
 
 ## 연구 내용
 1. LSTM, GRU, Transformer 각 모델에 Optuna 도구를 사용해 하이퍼파라미터 튜닝 과정을 거칩니다.
